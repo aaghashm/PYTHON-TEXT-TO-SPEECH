@@ -1,3 +1,5 @@
+!pip install gTTS
+
 def text_to_speech(): 
   from gtts import gTTS
   import os
